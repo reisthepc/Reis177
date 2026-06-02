@@ -4,7 +4,7 @@
 🗺️ Brasil
 
 Eu construo soluções escaláveis para o back-end, APIs.
-Meu foco total está em arquitetura, performance, clean code e otimização de bancos de dados.
+Meu foco total está em arquitetura, performance, clean code.
 
 
 ---
@@ -19,8 +19,6 @@ Meu foco total está em arquitetura, performance, clean code e otimização de b
 ### 🧠 O que eu faço
 
 * 🏗️ **API (Interface de Programação de Aplicações)**
-* ⚡ **Otimização de performance & Scripts**
-* 🛠️ **Clean architecture & Design de sistemas**
 * 🔒 **APIs seguras & Autenticação**
 * 👥 **Extensão acadêmica & Colaboração comunitária**
 
@@ -35,27 +33,12 @@ Meu foco total está em arquitetura, performance, clean code e otimização de b
 ![MONGODB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### DevOps & Ferramentas
+#### Ferramentas
 
 ![GITHUB](https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reis177&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Reis177" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reis177&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" height="150" />
-</p>
-
----
-
-### 📝 Filosofia
-
-> "Código não é apenas sobre resolver problemas.
-> É sobre construir soluções que escalam, duram e refletem identidade."
 
 ---
 
