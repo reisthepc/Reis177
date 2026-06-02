@@ -37,7 +37,7 @@ Meu foco total está em arquitetura, performance, clean code e otimização de b
 
 #### DevOps & Ferramentas
 
-![GITHUB]
+![GITHUB](https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
