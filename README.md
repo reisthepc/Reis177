@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Gabriel Reis
+# Olá 👋, eu sou o Gabriel
 
 🚀 Desenvolvedor Back-End | programador em Node.js.
 🗺️ Brasil
